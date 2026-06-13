@@ -1,4 +1,3 @@
-
 Data Pipeline Development
 Internship Task 1 - CodTech Data Science Internship
 Objective
