@@ -4,6 +4,7 @@
 ## 👩‍💻 Internship Details
 
 **Name:** Pravalika Darsinala 
+
 **Company:** CODTECH IT Solutions Private Limited  
 **Domain:** Data Science  
 **Intern ID:** CTIS9965 
